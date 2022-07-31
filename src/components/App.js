@@ -7,7 +7,6 @@ const App = () => {
     console.log("Button id is:-"event.currentTarget.id);
 
   }
-  constu
 
   // do not remove the two buttons or change their id
   return (
